@@ -1,3 +1,5 @@
+package snakegame;
+
 import java.awt.Color;
 import java.awt.Font;
 import java.awt.event.ActionEvent;
@@ -36,3 +38,5 @@ public class SnakeGame extends JApplication
     title.setFont(new Font("Jokerman", Font.PLAIN, 50));
     display.add(title);
     mainPanel.add(display);
+}
+}
