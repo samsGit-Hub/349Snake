@@ -22,7 +22,7 @@ public class SnakeGame extends JApplication implements ActionListener
 {
   private JPanel mainPanel, display;
   private JComboBox<String> snakeOp, landOp;
-  private JButton start;
+  private JButton start, about;
   private JLabel title;
   private String aboutText = "";
   private static final String[] snakeCo = { "Snake", "Red", "Blue", "Yellow", "Purple", "Green" };
