@@ -1,0 +1,7 @@
+SnakeTopia is the classic game of snake with some more personalized
+feature options. The game consists of the ability to change your snakes
+color ("Snake" dropdown) and what environment ("Background" dropdown) 
+you want to play in. The object of the game is to eat all the random 
+appearing apples to increase the length of the snake. Running into the
+snake’s own body or outside the frame of the environment is an automatic
+loss. The game is won when the snake is covering the entirety of the board.
